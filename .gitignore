@@ -1,0 +1,17 @@
+\#*
+*.elc
+.persistent-scratch
+history
+package-quickstart.el
+projectile-bookmarks.eld
+projectile.cache
+recentf
+auto-save-list/
+cache/
+eln-cache/
+elpa/
+etc/
+persistent-scratch/
+straight/
+transient/
+var/
